@@ -1,1 +1,0 @@
-# pemodelan-statistik
